@@ -1,5 +1,5 @@
 #include "shell.h"
-f
+
 /**
  * input_buf - buffers chained commands
  * @info: parameter struct
