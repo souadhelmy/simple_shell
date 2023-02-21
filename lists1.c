@@ -1,5 +1,5 @@
 #include "shell.h"
-R
+
 /**
  * list_len - determines length of linked list
  * @h: pointer to first node
